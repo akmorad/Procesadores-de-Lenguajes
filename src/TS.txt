@@ -1,0 +1,73 @@
+TS # 1 : 
+   * LEXEMA : 's'
+     + tipo: 'STRING'
+     + despl: 1
+-------------------- 
+   * LEXEMA : 'RR'
+     + tipo: 'INT'
+     + despl: 0
+-------------------- 
+   * LEXEMA : 's_s'
+     + tipo: 'BOOLEAN'
+     + despl: 65
+-------------------- 
+TS # 2 : 
+   * LEXEMA : 'putt'
+     + tipo: 'INT'
+     + despl: 1
+-------------------- 
+   * LEXEMA : '_b'
+     + tipo: 'BOOLEAN'
+     + despl: 0
+-------------------- 
+   * LEXEMA : 'log'
+     + tipo: 'BOOLEAN'
+     + despl: 2
+-------------------- 
+TS # 3 : 
+   * LEXEMA : 'kk'
+     + tipo: 'STRING'
+     + despl: 0
+-------------------- 
+TS # 0 : 
+   * LEXEMA : 's'
+     + tipo: 'STRING'
+     + despl: 0
+-------------------- 
+   * LEXEMA : 'a'
+     + tipo: 'INT'
+     + despl: 64
+-------------------- 
+   * LEXEMA : 'bb'
+     + tipo: 'BOOLEAN'
+     + despl: 65
+-------------------- 
+   * LEXEMA : 'putAlgo'
+     + tipo: 'FUNCTION'
+     + numParam: 2
+     + tipoParam: 'STRINGxINT'
+     + tipoReturn: 'VOID'
+     + etiqueta: 'etiq_putAlgo'
+-------------------- 
+   * LEXEMA : 'RR'
+     + tipo: 'FUNCTION'
+     + numParam: 2
+     + tipoParam: 'INTxBOOLEAN'
+     + tipoReturn: 'INT'
+     + etiqueta: 'etiq_RR'
+-------------------- 
+   * LEXEMA : 's_s'
+     + tipo: 'STRING'
+     + despl: 66
+-------------------- 
+   * LEXEMA : 'cadena'
+     + tipo: 'FUNCTION'
+     + numParam: 0
+     + tipoParam: 'vacio'
+     + tipoReturn: 'STRING'
+     + etiqueta: 'etiq_cadena'
+-------------------- 
+   * LEXEMA : 'kk'
+     + tipo: 'BOOLEAN'
+     + despl: 130
+-------------------- 

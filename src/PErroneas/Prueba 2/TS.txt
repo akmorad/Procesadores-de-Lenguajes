@@ -1,0 +1,9 @@
+TS # 0 : 
+   * LEXEMA : 'cadena'
+     + tipo: 'STRING'
+     + despl: 0
+-------------------- 
+   * LEXEMA : 'n'
+     + tipo: 'INT'
+     + despl: 64
+-------------------- 

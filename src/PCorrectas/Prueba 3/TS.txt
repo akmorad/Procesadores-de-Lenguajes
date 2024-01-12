@@ -1,0 +1,29 @@
+TS # 1 : 
+   * LEXEMA : 'num1_'
+     + tipo: 'INT'
+     + despl: 1
+ -------------------- 
+   * LEXEMA : 'num2_'
+     + tipo: 'INT'
+     + despl: 0
+ -------------------- 
+TS # 0 : 
+   * LEXEMA : 'a'
+     + tipo: 'INT'
+     + despl: 0
+ -------------------- 
+   * LEXEMA : 'b'
+     + tipo: 'INT'
+     + despl: 1
+ -------------------- 
+   * LEXEMA : 'number'
+     + tipo: 'INT'
+     + despl: 2
+ -------------------- 
+   * LEXEMA : 'operacion'
+     + tipo: 'FUNCTION'
+     + numParam: 2
+     + tipoParam: 'INTxINT'
+     + tipoReturn: 'INT'
+     + etiqueta: 'etiq_operacion'
+ --------------------

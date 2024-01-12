@@ -1,0 +1,2 @@
+Exceso de caracteres en la cadena "En un lugar de la mancha, cuyo nombre no quiero acordarme vivia..." de la linea 3
+Número 67543 de la linea 4 fuera del rango permitido(32728)

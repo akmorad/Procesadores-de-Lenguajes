@@ -1,0 +1,6 @@
+let a int;
+let b int;
+function sumar int (int num1, int num2){
+ return num1 + num2;
+}
+sumar(a, b);

@@ -1,0 +1,120 @@
+let	cadena string;
+get 
+cadena;
+let logico1 boolean	;
+let logico2 boolean	;
+let int2	int		;
+
+
+
+/* Ejemplo #1*/
+
+int1 = 873;
+
+int2 = 378;
+if ( logico2) cadena = " hello!";
+
+function ff string(string sss)
+{
+	global = 33;
+	logico1 =  logico2;
+	return sss;
+	if (logico1) sss = ff (cadena);
+}
+		
+function funciOn string (string logico2)
+{
+	let var int ;
+  while (logico1){
+	logico1 = int1 == int2;put(0);logico2="";
+  }
+  return logico2;
+}
+
+
+
+cadena = GET();
+
+
+put cadena;
+cadena = funciOn(ff(cadena));
+
+-------------------------------------------------
+
+let  booleano boolean;
+function bisiesto boolean (int a)	
+{	let bis string;
+	put "Es bisiesto?";
+	get bis;
+	return ((a + 4 == 0));	
+}
+
+put
+
+(
+
+i_i /**/
+
+)
+
+;
+function dias int (int m, int a)
+{
+	let dd int;
+	put("di cuantos dias tiene el mes ");
+	put m;
+	put " de "; put a;
+	get dd;
+	if (bisiesto(a)) dd = dd + 1;
+	return dd;
+}
+function esFechaCorrecta boolean (int d, int m, int a)	
+{
+	return !(d == dias (m, a));
+}
+function demo void (void)	
+{
+
+	if (esFechaCorrecta(25, 10, 2023)) put ("ok");
+	
+}
+demo();
+let aaaa1111 string ;
+
+-------------------------------------------------
+
+/* Ejemplo de Prueba... */
+
+let int1 int;
+let cadena string;get cadena;
+let logico1 boolean;let logico2 boolean;
+
+int1 = 873;
+
+int2 = 378;
+if ( logico2) cadena = " hello!";
+
+function ff string(string sss)
+{
+	global = 33;
+	logico1 =  logico2;
+	return sss;
+	if (logico1) sss = ff (cadena);
+}
+		
+function funciOn string (string logico2)
+{
+	let var int ;
+  while (logico1){
+	logico1 = int1 == int2;put(0);logico2="";
+  }
+  return logico2;
+}
+
+
+
+cadena = PUT(123);
+
+
+put cadena;
+cadena = funciOn(ff(cadena));

@@ -1,0 +1,30 @@
+TS # 1 : 
+   * LEXEMA : 'msg'
+     + tipo: 'STRING'
+     + despl: 0
+ -------------------- 
+TS # 2 : 
+TS # 0 : 
+   * LEXEMA : 'texto'
+     + tipo: 'STRING'
+     + despl: 0
+ -------------------- 
+   * LEXEMA : 'print'
+     + tipo: 'FUNCTION'
+     + numParam: 1
+     + tipoParam: 'STRING'
+     + tipoReturn: 'VOID'
+     + etiqueta: 'etiq_print'
+ -------------------- 
+   * LEXEMA : 'pideTexto'
+     + tipo: 'FUNCTION'
+     + numParam: 0
+     + tipoParam: 'vacio'
+     + tipoReturn: 'VOID'
+     + etiqueta: 'etiq_pideTexto'
+ -------------------- 
+   * LEXEMA : 'textoAux'
+     + tipo: 'STRING'
+     + despl: 64
+ -------------------- 
+

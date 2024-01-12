@@ -1,0 +1,16 @@
+TS # 0 : 
+   * LEXEMA : 'a'
+     + tipo: 'BOOLEAN'
+     + despl: 0
+-------------------- 
+   * LEXEMA : 'c'
+     + tipo: 'BOOLEAN'
+     + despl: 1
+-------------------- 
+   * LEXEMA : 'fun'
+     + tipo: 'FUNCTION'
+     + numParam: 0
+     + tipoParam: 'vacio'
+     + tipoReturn: 'STRING'
+     + etiqueta: 'etiq_fun'
+-------------------- 

@@ -1,0 +1,7 @@
+let a int;
+let b string;
+function sumar int(int num1, int num2){
+ return num1 + num2;
+}
+let res int;
+res = sumar(a + b);

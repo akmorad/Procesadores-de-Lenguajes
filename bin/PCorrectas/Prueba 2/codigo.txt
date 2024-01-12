@@ -1,0 +1,15 @@
+let texto string;
+function print void (string msg)
+{
+    put msg;
+}
+function pideTexto void (void)
+{
+    put "Introduce un texto";
+    get texto;
+}
+pideTexto();
+let  textoAux  string;
+textoAux = texto;
+print(textoAux);
+

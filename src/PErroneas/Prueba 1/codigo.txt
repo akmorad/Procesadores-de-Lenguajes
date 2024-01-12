@@ -1,0 +1,4 @@
+let a  int;
+let b  int;
+let res boolean;
+c = a == b;

@@ -1,0 +1,3 @@
+Error: El valor de retorno de la funcion INT no coincide con el valor esperado STRING, en la linea 3
+Error: Se estan comparando dos variables con distintos tipos STRING, BOOLEAN en la linea 6
+Error: El valor del tipo del identificador "c" difiere con el valor asignado "tipo_error" se esperaba un tipo "BOOLEAN" en la linea 6

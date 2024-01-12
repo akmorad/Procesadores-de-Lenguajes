@@ -1,0 +1,6 @@
+let a int;
+let b string;
+function print string (string cadena){
+    get cadena;
+}
+b = print(a);

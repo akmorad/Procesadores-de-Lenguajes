@@ -1,0 +1,30 @@
+TS # 1 : 
+   * LEXEMA : 'num1'
+     + tipo: 'INT'
+     + despl: 1
+
+ -------------------- 
+   * LEXEMA : 'num2'
+     + tipo: 'INT'
+     + despl: 0
+
+ -------------------- 
+TS # 0 : 
+   * LEXEMA : 'a'
+     + tipo: 'INT'
+     + despl: 0
+
+ -------------------- 
+   * LEXEMA : 'b'
+     + tipo: 'INT'
+     + despl: 1
+
+ -------------------- 
+   * LEXEMA : 'sumar'
+     + tipo: 'FUNCTION'
+     + numParam: 2
+     + tipoParam: 'INTxINT'
+     + tipoReturn: 'INT'
+     + etiqueta: 'etiq_sumar'
+
+ -------------------- 

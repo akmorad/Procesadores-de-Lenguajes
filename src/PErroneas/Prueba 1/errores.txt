@@ -1,0 +1,1 @@
+Error: Se esta usando la variable c que no esta declarada previamente, en la linea 4

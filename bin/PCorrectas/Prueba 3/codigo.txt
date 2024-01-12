@@ -1,0 +1,7 @@
+let a  int;
+let b  int;
+let number int ;
+function operacion int (int num1_, int num2_) {
+	return 88  +  num1 +num2 ;
+}
+

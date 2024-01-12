@@ -1,0 +1,18 @@
+<LET, >
+<ID, 0>
+<STRING, >
+<PCOMA, >
+<LET, >
+<ID, 1>
+<INT, >
+<PCOMA, >
+<ID, 0>
+<ASIGNACION, asign>
+<CADENA, "En un lugar de la mancha, cuyo nombre no quiero acordarme vivia...">
+<PCOMA, >
+<ID, 1>
+<ASIGNACION, asign>
+<ENTERO, 67543>
+<OPBINARIO, suma>
+<ENTERO, 34>
+<PCOMA, >

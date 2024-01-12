@@ -1,0 +1,47 @@
+/** No se debe cambiar el ejemplo hasta que lo indique el profesor **/
+let  s string ;let a int ;
+let bb boolean ;
+
+bb= 91 == 8 + a;
+
+function putAlgo void (string s, int RR)	
+{
+	let s_s boolean;
+	
+	put"Hello";
+	RR= (88);
+		put(s)
+	;if (bb) return s_s;
+	put RR;		put (4 + (a + 00987)) +3;
+}
+
+a=33;
+
+function  RR int (int putt, boolean _b)
+{
+	get _b;
+	let log boolean;
+	a= 32100 + putt + 33	;	
+	if (_b == log)	return s;
+	return putt + RR (putt + 1, bb);	
+}
+
+let s_s string;
+
+RR(a, bb);
+
+function  cadena string(void)
+{
+	let kk string;
+	if ((a == 91) == bb)       
+		return "";
+	kk= s_s;
+}
+
+s = "";
+a= RR (5, bb);
+put("Vamos a aprobar?");
+
+let kk boolean ;
+
+cadena();

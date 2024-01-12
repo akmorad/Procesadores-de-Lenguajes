@@ -1,0 +1,17 @@
+TS # 0 : 
+   * LEXEMA : 'a'
+     + tipo: 'INT'
+     + despl: 0
+-------------------- 
+   * LEXEMA : 'b'
+     + tipo: 'INT'
+     + despl: 1
+-------------------- 
+   * LEXEMA : 'bbb'
+     + tipo: 'BOOLEAN'
+     + despl: 2
+-------------------- 
+   * LEXEMA : 'c'
+     + tipo: 'BOOLEAN'
+     + despl: 3
+-------------------- 

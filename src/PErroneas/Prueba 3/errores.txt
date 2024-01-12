@@ -1,0 +1,2 @@
+Error: Se debe llamar a la funcion de la linea 6 con los siguientes parametros STRING
+Error: El valor del tipo del identificador "b" difiere con el valor asignado "tipo_error" se esperaba un tipo "STRING" en la linea 6

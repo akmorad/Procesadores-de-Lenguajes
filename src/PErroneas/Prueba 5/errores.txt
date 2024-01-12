@@ -1,0 +1,3 @@
+Error: Se esperaba dos variables del tipo INT, pero se encontro  INT, STRING en la linea 7
+Error: Se debe llamar a la funcion de la linea 7 con los siguientes parametros INTxINT
+Error: El valor del tipo del identificador "res" difiere con el valor asignado "tipo_error" se esperaba un tipo "INT" en la linea 7

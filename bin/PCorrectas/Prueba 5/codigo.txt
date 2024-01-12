@@ -1,0 +1,8 @@
+let a int;
+let b int;
+let res boolean;
+
+function equal boolean (int num1, int num2){
+ res = num1 == num2;
+}
+equal(a, b);

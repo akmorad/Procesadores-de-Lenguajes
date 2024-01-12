@@ -1,0 +1,21 @@
+TS # 1 : 
+   * LEXEMA : 'cadena'
+     + tipo: 'STRING'
+     + despl: 0
+-------------------- 
+TS # 0 : 
+   * LEXEMA : 'a'
+     + tipo: 'INT'
+     + despl: 0
+-------------------- 
+   * LEXEMA : 'b'
+     + tipo: 'STRING'
+     + despl: 1
+-------------------- 
+   * LEXEMA : 'print'
+     + tipo: 'FUNCTION'
+     + numParam: 1
+     + tipoParam: 'STRING'
+     + tipoReturn: 'STRING'
+     + etiqueta: 'etiq_print'
+-------------------- 

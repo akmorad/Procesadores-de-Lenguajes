@@ -1,0 +1,6 @@
+let a boolean;
+let c boolean;
+function fun string (void){
+    return 4;
+}
+c=fun()==a;
